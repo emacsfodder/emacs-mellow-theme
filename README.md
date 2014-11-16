@@ -1,14 +1,4 @@
 
-# emacs-mellow-theme
+# Emacs mellow theme
 
-TODO: Add a proper README.md
-
-## Description
-
-## Usage
-
-## Licence
-
-## Contributing
-
-
+![](https://github.com/emacsfodder/emacs-mellow-theme/raw/master/mellow-theme.png)
